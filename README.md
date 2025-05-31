@@ -1,2 +1,2 @@
 # doom
-Doom but actually 3d with opengl
+Doom but with 3d vulkan graphics
